@@ -1,0 +1,31 @@
+h1, h2 {
+	color: blue;
+	text-align: center;
+	font-family: Times New Roman;
+	width: 400px;
+	/*font-size: 20px;*/*/
+}
+
+b {
+	color: red;
+}
+
+i {
+	color: blue;
+}
+
+p {
+	text-indent: 40px;
+	text-align: justify;
+	font-family: Arial;
+	width: 400px;
+	line-height: 30px;
+}
+
+h1 {
+	font-size: 20px;
+}
+
+h2 {
+	font-size: 15px;
+}

@@ -1,0 +1,47 @@
+/*div p {
+	color: blue;
+}
+*/
+/*div h2 {
+	font-style: italic;
+}
+*/
+/*#test p {
+	color: orange;
+}
+*/
+#test h2 {
+	font-weight: bold;
+}
+
+.bbb {
+	font-style: oblique;
+}
+
+/*#test .bbb {
+	color: red;
+}
+*/
+p.bbb {
+	font-size: 20px;
+}
+
+h2.bbb {
+	font-size: 10px;
+}
+
+/*#test p.bbb {
+	color: purple;
+}
+*/
+.bbb, .xxx {
+	color: yellow;
+}
+
+/*p.bbb, h2.xxx {
+	color: black;
+}*/
+
+#test p.bbb, #test h2.xxx {
+	color: purple;
+}
