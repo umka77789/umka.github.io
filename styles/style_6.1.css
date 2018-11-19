@@ -30,7 +30,7 @@ a.www:hover {
 	text-decoration: none;
 }
 */
-#test a.www:link, #test a.www:visited {
+/*#test a.www:link, #test a.www:visited {
 	color: purple;
 	text-decoration: overline;
 }
@@ -38,4 +38,14 @@ a.www:hover {
 #test a.www:hover {
 	color: orange;
 	text-decoration: none;
+}
+*/
+a.eee.www:link, a.eee.www:visited {
+	color: black;
+	text-decoration: overline;
+}
+
+a.eee.www:hover {
+	color: green;
+	text-decoration: line-through;
 }
