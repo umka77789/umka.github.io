@@ -20,21 +20,22 @@ h1 {
 	text-decoration: underline;
 }
 */
-a:link.www, a:visited.www {
-	color: blue;
+/*a.www:link, .www:visited {
+	color: purple;
 	text-decoration: underline;
 }
 
-a:hover.www {
+a.www:hover {
+	color: red;
 	text-decoration: none;
 }
-
-/*#test a:link.www, #test a:visited.www {
+*/
+#test a.www:link, #test a.www:visited {
 	color: purple;
-	text-decoration: line-through;
+	text-decoration: overline;
 }
 
-#test a:hover.www {
+#test a.www:hover {
 	color: orange;
-	text-decoration: overline;
-}*/
+	text-decoration: none;
+}
