@@ -1,0 +1,40 @@
+a {
+	font-size: 10px;
+}
+
+h2 {
+	font-size: 12px;
+}
+
+h1 {
+	font-size: 14px;
+}
+
+/*#test a:link, #test a:visited {
+	color: red;
+	text-decoration: none;
+}
+
+#test a:hover {
+	color: blue;
+	text-decoration: underline;
+}
+*/
+a:link.www, a:visited.www {
+	color: blue;
+	text-decoration: underline;
+}
+
+a:hover.www {
+	text-decoration: none;
+}
+
+/*#test a:link.www, #test a:visited.www {
+	color: purple;
+	text-decoration: line-through;
+}
+
+#test a:hover.www {
+	color: orange;
+	text-decoration: overline;
+}*/
