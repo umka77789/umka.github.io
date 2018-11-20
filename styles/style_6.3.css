@@ -1,0 +1,61 @@
+/*div {
+	border-width: 1px;
+	border-style: solid; 
+	border-color: red;
+	width: 200px; 
+	height: 200px;
+}*/
+
+#d1 {
+	border: 1px solid red;
+	width: 200px; 
+	height: 200px;
+}
+
+#d2 {
+	border: 1px dotted blue;
+	width: 500px; 
+	height: 200px;
+}
+
+#d3 {
+	border: 1px dashed green;
+	width: 100px; 
+	height: 100px;
+}
+
+#d4 {
+	border-width: 1px;
+	border-style: solid; 
+	border-color: blue green red black;
+	width: 500px; 
+	height: 200px;
+	border-radius: 20px;
+}
+
+#d5 {
+	border-width: 1px;
+	border-style: dashed; 
+	border-color: green;
+	width: 300px; 
+	height: 300px;
+	border-radius: 10px 30px;
+}
+
+#d6 {
+	border-width: 1px;
+	border-style: dotted; 
+	border-color: green;
+	width: 300px; 
+	height: 300px;
+	border-radius: 10px 30px 50px 70px;
+}
+
+#d7 {
+	border: 1px solid red;
+	width: 100px; 
+	height: 100px;
+	border-radius: 50px;
+}
+
+
