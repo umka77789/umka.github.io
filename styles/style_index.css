@@ -1,3 +1,8 @@
+a:visited {
+	text-decoration: underline;
+	color: red;
+}
+
 a:link {
 	text-decoration: none;
 	color: black;
@@ -6,11 +11,6 @@ a:link {
 a:hover {
 	text-decoration: underline;
 	color: purple;
-}
-
-a:visited {
-	text-decoration: underline;
-	color: red;
 }
 
 a:active {
